@@ -1,5 +1,5 @@
 {
-    "name": "raflymaulana",
+    "name": "mfariasdip",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/raflymln/raflymaulana.git"
+        "url": "git+https://github.com/mfaris16/mfarisadip.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/raflymln/raflymaulana/issues"
+        "url": "https://github.com/mfaris16/mfarisadip/issues"
     },
-    "homepage": "https://github.com/raflymln/raflymaulana#readme",
+    "homepage": "https://github.com/mfaris16/mfarisadip#readme",
     "devDependencies": {
         "autoprefixer": "^10.2.6",
         "postcss": "^8.3.5",
