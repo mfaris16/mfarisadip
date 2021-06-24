@@ -32,7 +32,7 @@ const openLinks = () => {
 const warnLog = () => {
     console.log("%cPlease Read Below!", "color:red; font-size:60px; font-weight: bold; -webkit-text-stroke: 1px black;");
     console.log(
-        `If you're reading this,\nThis website, design is made with ♥ by Rafly Maulana.\n- Author: Muhammad Rafly Maulana\n- Website: https://raflymaulana.me\n\nFeel free to learn from my code. However, please do not do this:\n1. Stealing this website codes in any ways without significant modification.\n2. Re-selling this website, IN ANY FORM (codes, design, etc).\n\nBreaking all the rules above will lead to a PUNISHMENT and WILL NOT BE TOLERATED.\n\nIf you need help about your website or need some guide, feel free to contact me through this email: mraflymaulana@gmail.com`
+        ``
     );
 };
 
@@ -84,12 +84,12 @@ const moreAboutMe = (el) => {
     if (status == 1) {
         textbtn = "Less About Me";
         text =
-            "My name is Muhammad Faris Adi Prabowo. In my 18 years of life I have experienced things like Producing Music, Graphic Designing, Fullstack Programming, etc. But one thing I always stick with is, I always do it as my passion, and that's what makes it the best.<br><br>He is interested in Machine learning-based gene biomarkers selection for improving the prognosis of cancer, survival analysis, and drug discovery.<br><br>From all of that, i already gained some experience, and the good thing is I always learn everything as my passion. And now i'm back to programming, but nowdays, i try to use, combine and develop the skills I have learned so that in the future it can be even better<br><br>";
+            "My name is Muhammad Faris Adi Prabowo. In my 19 years of life I have experienced things like Producing Music, Graphic Designing, Fullstack Programming, etc. But one thing I always stick with is, I always do it as my passion, and that's what makes it the best.<br><br>He is interested in Machine learning-based gene biomarkers selection for improving the prognosis of cancer, survival analysis, and drug discovery.<br><br>From all of that, i already gained some experience, and the good thing is I always learn everything as my passion. And now i'm back to programming, but nowdays, i try to use, combine and develop the skills I have learned so that in the future it can be even better<br><br>";
         $(el).data("switch", 2);
     } else {
         textbtn = "More About Me";
         text =
-            "My name is Muhammad Faris Adi Prabowo. In my 18 years of life I have experienced things like Producing Music, Graphic Designing, Fullstack Programming, etc. But one thing I always stick with is, I always do it as my passion, and that's what makes it the best.";
+            "My name is Muhammad Faris Adi Prabowo, a student at the Department of Informatics, Adisutjipto Institute of Aerospace Technology. He is interested in molecular biology and bioinformatics with application in molecular genomics, transcriptomics, as well as metagenomics analysis.";
         $(el).data("switch", 1);
     }
 

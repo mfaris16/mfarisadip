@@ -1,4 +1,4 @@
-const staticDevCoffee = "raflymaulana";
+const staticDevCoffee = "mfarisadip";
 const assets = [
     "/",
     "/manifest.json",
@@ -14,9 +14,9 @@ const assets = [
     "/assets/img/3D/citytown.png",
     "/assets/img/3D/cloud.png",
     "/assets/img/projects/ashuap.jpg",
-    "/assets/img/projects/Foxxy.png",
-    "/assets/img/projects/GPRESTORE.png",
-    "/assets/img/projects/RaflyMaulana.png",
+    "/assets/img/projects/CGM.png",
+    "/assets/img/projects/silsilah.png",
+    "/assets/img/projects/mfariasdip.png",
     "/assets/img/3D/Saly/Saly-1.png",
     "/assets/img/3D/Saly/Saly-10.png",
     "/assets/img/3D/Saly/Saly-12.png",
@@ -26,7 +26,7 @@ const assets = [
     "/assets/img/3D/Saly/Saly-22.png",
     "/assets/img/3D/Saly/Saly-28.png",
     "/assets/js/ztext.min.js",
-    "/assets/js/raflymaulana.js",
+    "/assets/js/mfarisadip.js",
 ];
 
 self.addEventListener("install", (installEvent) => {
